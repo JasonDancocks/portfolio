@@ -1,0 +1,21 @@
+nav {
+  background-color: #dce5ef;
+ 
+}
+
+a {
+  color: blue;
+}
+
+body { 
+  padding-top: 70px; 
+}
+
+.img-thumbnail {
+  max-height: 80px;
+  max-width: 80px;
+  
+}
+
+
+
